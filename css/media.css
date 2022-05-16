@@ -1,0 +1,690 @@
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /*============ HOME PAGE'S MEDIA CSS START============= */
+    .main_menu_area {
+        top:0 !important;
+    }
+    .progress_heading{
+        font-size: 26px;
+    }
+    .main_menu_area {
+        top: 51px;
+    }
+    .request-services, .who-we-are, .service-section, .our-teams, .our-latest-blog {
+        padding-top:60px;
+        padding-bottom:70px;
+    }
+    .common-title {
+        width: 280px;
+        height: 85px;
+    }
+    .ct-wrapper {
+        width: 215px; 
+        height: 86px;
+    }
+    .inner-text {
+        margin-top: -8px;
+    }
+    .inner-text h3 {
+        font-size: 30px;
+    }
+    .main-title-wrapper {
+        width: 270px;
+        height: 90px;
+    }
+    .team-title-wrapper {
+        width: 255px;
+        height: 90px;
+        left: 7%;
+    }
+    .top-right, .bottom-right, .right-top, .right-bottom {
+        width: 20px;
+    }
+    .t-inner-content h3 {
+        margin-top: 10px;
+        font-size: 22px;
+    }
+    .testimonial-subtitle {
+        font-size: 30px !important;
+    }
+    /*......common title css end..... */
+
+    /* ........header media css start...... */
+    .header-top {
+        padding: 10px 0;
+    }
+    .right-social ul li a {
+        margin: 0 0px;
+    }
+    /*....... header media css end....... */
+    .slider-home .carousel-item .container {
+        text-align: center;
+    }
+    .slider-home .caption-text h2 {
+        font-size: 45px;
+    }
+    .slider-home .caption-text .color_head {
+        font-size: 45px;
+
+    }
+    .slider-home .carousel-controls {
+        display: none;
+    }
+    .slider-home .carousel-item {
+        padding-top: 200px;
+        padding-bottom: 330px;
+    }
+    .shadow_custom {
+        margin-top: -28px;
+    }
+    .three_wrapper {
+        padding: 40px 0px;
+    }
+    .button_su {
+        margin-top: 40px;
+    }
+    .left-discription h1 {
+        font-size: 23px;
+        line-height: 36px;
+    }
+    .ft_ssl img {
+        width: 100%;
+    }
+    .about_count_wrapper {
+        text-align: center;
+    }
+    .about_sec_img img {
+        position: relative;
+        top: 143px;
+    }
+    /*........... slider media css end........... */
+    .middle3_wrapper{
+        border-right: none !important;
+        border-left: none !important;
+        border-bottom: 1px solid #ddd;
+    }
+    .middle1_wrapper{
+        border-bottom: 1px solid #ddd;
+    }
+    .rl-text p {
+        font-size: 28px;
+    }
+    .common-title {
+        margin: -25px auto 30px !important;
+  
+    }
+    .about_image img{
+        width: 100%;
+    }
+    .hp_wrapper {
+        margin-top: 0px;
+    }
+    .hp_our_customer {
+        width: 100%;
+    }
+    .hp_our_customer h2 {
+        font-size: 42px;
+    }
+    .hp_our_customer h2 span {
+        font-size: 42px;
+    }
+    .power-section {
+        padding: 75px 0;
+    }
+    .callto_heading h1 {
+        margin-bottom: 40px;
+       text-align: center;
+    }
+    .inner-text span {
+        font-size: 9px;
+    }
+        .button_su {
+            margin-top: 40px;
+        }
+        .button_su_inner {
+            width: 136px;
+            padding: 5px;
+        }
+        .callto_heading h1 {
+            font-size: 26px;
+        }
+        .call_to_action {
+            padding: 75px 0;
+   
+        }
+        .mb_footer_top {
+            padding: 55px 0;
+     
+        }
+    /*........ slider media css end....... */
+    
+    /*......... request form media css start......... */
+    .rl-text p {
+        text-align: center;
+        margin-bottom: 40px;
+     }
+     /*......... request form media css end...........*/
+
+    /*......... about us media css start.......... */
+    .what_do_we_title h1 {
+        font-size: 24px;
+    }
+    .what_do_we_title p {
+        padding: 0 0px;
+    }
+    .about_work_title h1 {
+        font-size: 30px;
+    }
+    /*.......... about us media css end.......... */
+
+        
+    /* ............help power media css start......... */
+    .power-section {
+        padding: 150px 0;
+       
+    }
+    .content2-wrapper2 img{
+        display: none; 
+    }
+    .caption2-text h4 {
+        font-size: 12px;   
+    }
+    .caption2-text h2 {
+        font-size: 33px;
+        line-height: 2.2rem;
+    }
+    .caption2-text h2 span {
+        font-size:33px;
+    }
+    .button_su {
+        margin-top: 20px !important;
+    }
+    .client-testimonial {
+        padding: 80px 0;
+   
+    }
+    .testimonial-item {
+        padding: 26px 9px;
+        padding-top: 25px;
+     
+    }
+    /* ..........help power media css end............ */
+    .payment_method img {
+        width: 100%;
+    }
+    .footer-top {
+        text-align: center;
+    }
+    /*============ HOME PAGE'S MEDIA CSS END============= */
+
+
+    /* =============SERVICE PAGE'S MEDIA CSS START============ */
+    .breadcum-title {
+        font-size: 30px;
+    }
+    .service-page-content h1{
+        font-size: 24px;
+        margin-bottom: 0 !important;
+        padding: 30px 0;
+    }
+    .breadcam-section {
+        padding: 60px 0;
+        margin-top: 78px;
+    }
+    .service-page-content, .our-portfolio, .our-blogs {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+    .s-electrical-one-content {
+        padding-right:0px;
+    }
+    .s-padding0 {
+        padding-right: 0 !important;
+    }
+    .s-electrical-one img {
+       width: 100%;
+       height: inherit;
+    }
+    .max-w {
+        margin-top:30px;
+        padding-left:28px;
+        padding-right: 18px;
+    }
+    /* =============SERVICE PAGE'S MEDIA CSS END============ */
+
+    /* ============PORTFOLIO PAGE'S MEDIA CSS START=========== */
+    .portfolio-item:hover .portfolio-inner{
+        bottom:12%;
+      
+    }
+    .animate-infinite {
+        font-size: 25px;
+        padding: 20px 20px;
+        line-height:37px;
+      
+    }
+    /* ============PORTFOLIO PAGE'S MEDIA CSS END============= */
+
+    /* ============BLOG PAGE'S MEDIA CSS START=========== */
+
+    /*=========== BLOG PAGE'S MEDIA CSS END============= */
+
+
+    .pmd-0{
+        padding-right: 0 !important;
+    }
+    .contact-section{
+        padding-bottom: 40px;
+    }
+    .contact-wrapper {
+        padding: 42px 10px;
+        padding-left: 10px;
+    }
+    .contact_title h1 {
+        font-size: 30px;
+        text-align: center;
+
+    }
+
+    /*================ INNERPAGE MEDIA CSS=================== */
+    .inner-page-content {
+        padding: 36px 0;
+    }
+      .innerpage-content {
+        padding: 0px 0px;
+    }
+
+
+
+.text_call_animate h1{
+    font-size: 30px;
+}
+
+ 
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /*============ HOME PAGE'S MEDIA CSS START============= */
+
+    .request-services, .who-we-are, .service-section, .our-teams, .our-latest-blog {
+        padding-top: 70px;
+        padding-bottom: 90px;
+    }
+    
+        /* ...........slider media css start........... */
+        .slider-home .carousel-item .container {
+            text-align: center;
+        }
+        .slider-home .caption-text h2 {
+            font-size: 70px;
+        }
+        .slider-home .caption-text .color_head {
+            font-size: 70px;
+    
+        }
+        .button_su {
+            margin-top: 40px;
+        }
+    
+        /*........... slider media css end........... */
+        .middle3_wrapper{
+            border-right: none !important;
+            border-left: none !important;
+            border-bottom: 1px solid #ddd;
+        }
+        .middle1_wrapper{
+            border-bottom: 1px solid #ddd;
+        }
+        .rl-text p {
+            font-size: 28px;
+        }
+        .common-title {
+            margin: -25px auto 30px !important;
+      
+        }
+        .about_image img{
+            margin-top: 40PX;
+            width: 100%;
+        }
+        .hp_our_customer {
+            width: 100%;
+        }
+        .hp_our_customer h2 {
+            font-size: 56px;
+        }
+        .hp_our_customer h2 span {
+            font-size: 56px;
+        }
+        .callto_heading h1 {
+            margin-bottom: 40px;
+           text-align: center;
+        }
+    
+
+    /*........... request form media css start........... */
+    .rl-text p {
+       text-align: center;
+       margin-bottom: 40px;
+    }
+    /*............ request form media css end ...............*/
+
+    .about_sec_img img {
+        position: relative;
+        top: 143px;
+    }
+
+
+    /*============ HOME PAGE'S MEDIA CSS END============= */
+
+
+    /* =============SERVICE PAGE'S MEDIA CSS START============ */
+    .breadcum-title {
+        font-size: 50px;
+    }
+    .s-padding0 {
+        padding-right: 0 !important;
+    }
+    .s-electrical-one img {
+       width: 100%;
+    }
+    .max-w {
+        margin-top: 40px;
+        padding-left:50px;
+    }
+    /* =============SERVICE PAGE'S MEDIA CSS END============ */
+
+    /* ============PORTFOLIO PAGE'S MEDIA CSS START=========== */
+    .portfolio-item:hover .portfolio-inner{
+        bottom:16%;
+      
+    }
+    .animate-infinite {
+        font-size: 25px;
+        padding: 20px 20px;
+        line-height:37px;
+      
+    }
+    /* ============PORTFOLIO PAGE'S MEDIA CSS END============= */
+
+    /* =========CONTACT PAGE'S MEDIA CSS START=========== */
+    .pmd-0{
+        padding-right: 0 !important;
+    }
+    .contact-section{
+        padding-bottom: 40px;
+    }
+    .contact-wrapper {
+        padding: 85px 60px;
+        padding-left: 71px;
+    }
+    .contact-title h3 {
+        font-size: 27px;
+    }
+    .contact-title h3 span {
+        font-size: 22px;
+    }
+    .contact-title {
+        text-align: center;
+    }
+    /* =========CONTACT PAGE'S MEDIA CSS END=========== */
+
+    /*================ INNERPAGE MEDIA CSS=================== */
+      .innerpage-content {
+        padding: 0px 0px;
+    }
+
+
+
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /*============ HOME PAGE'S MEDIA CSS START============= */
+
+    /* ...........slider media css start........... */
+    .slider-home .carousel-item .container {
+        text-align: center;
+    }
+    .slider-home .caption-text h2 {
+        font-size: 70px;
+    }
+    .slider-home .caption-text .color_head {
+        font-size: 70px;
+
+    }
+    .button_su {
+        margin-top: 40px;
+    }
+
+    /*........... slider media css end........... */
+    .middle3_wrapper{
+        border-right: none !important;
+    }
+    .common-title {
+        margin: -25px auto 30px !important;
+  
+    }
+    .about_image img{
+        margin-top: 40PX;
+        width: 100%;
+    }
+    .hp_our_customer {
+        width: 100%;
+    }
+    .hp_our_customer h2 {
+        font-size: 56px;
+    }
+    .hp_our_customer h2 span {
+        font-size: 56px;
+    }
+    .callto_heading h1 {
+        margin-bottom: 40px;
+       text-align: center;
+    }
+
+
+    /*============ HOME PAGE'S MEDIA CSS  END============= */
+
+
+
+
+    /* =============SERVICE PAGE'S MEDIA CSS START============ */
+    .s-padding0 {
+        padding-right: 0 !important;
+    }
+    .s-electrical-one img {
+       width: 100%;
+    }
+    .max-w {
+        margin-top: 40px;
+        padding-left:60px;
+    }
+
+    /* =============SERVICE PAGE'S MEDIA CSS END============ */
+    /* ============PORTFOLIO PAGE'S MEDIA CSS START=========== */
+    .portfolio-item:hover .portfolio-inner{
+        bottom:15%;
+    }
+    .animate-infinite {
+        font-size: 27px;
+        padding: 20px 20px;
+        line-height:37px;
+      
+    }
+    /* ============PORTFOLIO PAGE'S MEDIA CSS END============= */
+
+    .about_sec_img img {
+        position: relative;
+        top: 143px;
+    }
+
+    
+    /* =========CONTACT PAGE'S MEDIA CSS START=========== */
+    .pmd-0{
+        padding-right: 0 !important;
+    }
+    .contact-section{
+        padding-bottom: 40px;
+    }
+    .contact-wrapper {
+        padding: 85px 60px;
+        padding-left: 71px;
+    }
+    .contact-title h3 {
+        font-size: 27px;
+    }
+    .contact-title h3 span {
+        font-size: 22px;
+    }
+    /* =========CONTACT PAGE'S MEDIA CSS END=========== */
+
+
+
+    /*================ INNERPAGE MEDIA CSS=================== */
+    .innerpage-content {
+        padding: 0px 40px;
+    }
+
+
+    
+   
+ }
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*============ HOME PAGE'S MEDIA CSS START============= */
+    .menu_nav .nav-item .nav-link {
+        margin: 4px 36px;
+    }
+
+    /*............. slider media css start............. */
+    .slider-home .caption-text h2 {
+        font-size: 75px;
+    }
+    .slider-home .caption-text p {
+        font-size: 30px;  
+    }
+    .three_wrapper {
+       padding: 42px 30px;
+    }
+    .left-discription h1{
+        font-size: 36px;
+    }
+    .hp_our_customer {
+        width: 100%;
+    }
+    .hp_our_customer h2 {
+        font-size: 62px;
+    }
+    .hp_our_customer h2 span {
+        font-size: 62px;
+ 
+    }
+    .hp_wrapper {
+        margin-top: 40px;
+        padding: 0px;
+    }
+    .call_to_action {
+        padding: 65px 0;
+    }
+    .mb_fish_wrapper::after {
+        width: 100px;
+        height: 100px;
+    }
+    .mb_fish_wrapper:hover::after{
+        width: 150px;
+        height: 150px;
+    }
+    .mb_footer_top {
+        padding: 100px 0;
+    }
+    /*============ HOME PAGE'S MEDIA CSS END============= */
+
+
+
+
+    /* =============SERVICE PAGE'S MEDIA CSS START============ */
+   
+    /* =============SERVICE PAGE'S MEDIA CSS END============ */
+
+    /* ============PORTFOLIO PAGE'S MEDIA CSS START=========== */
+    .portfolio-inner {
+        left: 5%;
+        width: 90%;
+      
+    }
+    .animate-infinite {
+        font-size: 26px;
+        padding: 20px 24px;
+        line-height:38px;
+        
+    }
+    .portfolio-item:hover .portfolio-inner{
+        bottom:23%;
+      
+    }
+    /* ============PORTFOLIO PAGE'S MEDIA CSS END============= */
+
+
+
+    /* =========CONTACT PAGE'S MEDIA CSS START=========== */
+    .contact-wrapper {
+        padding: 120px 60px;
+        padding-left: 71px;
+    }
+    .contact-title h3 {
+        font-size: 27px;
+    }
+    .contact-title h3 span {
+        font-size: 22px;
+    }
+    /* =========CONTACT PAGE'S MEDIA CSS END=========== */
+
+
+
+
+
+ }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/*============ HOME PAGE'S MEDIA CSS START============= */
+/*............ slider media css start.......... */
+
+/*............ slider media css end............. */
+/*............. our team media css start............ */
+.top-right, .bottom-right, .right-top, .right-bottom {
+	width: 30px;
+}
+/*............. our team media css end............ */
+
+.hp_our_customer h2 {
+    font-size: 70px;
+}
+
+/*============ HOME PAGE'S MEDIA CSS END============= */
+
+
+/* =============SERVICE PAGE'S MEDIA CSS START============ */
+.max-w {
+    padding-left:60px;
+}
+ /* =============SERVICE PAGE'S MEDIA CSS END============ */
+
+/* ============PORTFOLIO PAGE'S MEDIA CSS START=========== */
+/* ============PORTFOLIO PAGE'S MEDIA CSS END============= */
+
+/* ============BLOG PAGE'S MEDIA CSS START=========== */
+/*=========== BLOG PAGE'S MEDIA CSS END============= */
+
+
+
+ }
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+ }
